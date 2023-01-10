@@ -1,0 +1,23 @@
+{
+  "name": "com.brandon194.brandon194utils",
+  "version": "0.1.0",
+  "displayName": "Brandon194 Utils",
+  "unity": "2021.1",
+  "dependencies": {
+    "com.unity.textmeshpro": "1.0.0"
+  },
+  "keywords": [
+    "brandon194",
+    "tools",
+    "extensions",
+    "helpers",
+    "utilities"
+  ],
+  "author": {
+    "name": "Brandon194",
+    "email": "Brandon194@brandon194.com",
+    "url": "https://brandon194.com"
+  },
+  "type": "library",
+  "unityRelease": "11f1"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "com.brandon194.twitchchat",
+    "rootNamespace": "Brandon194Utils.TwitchChat",
+    "references": [
+        "GUID:a592904b928aa6342ae79db406af7730",
+        "GUID:bcf660c2f5b0e1c488e6cea8a5d78147"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "com.brandon194.utils.core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bcf660c2f5b0e1c488e6cea8a5d78147"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
